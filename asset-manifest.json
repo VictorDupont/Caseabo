@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Caseabo/static/css/main.f1ca6647.chunk.css",
-    "main.js": "/Caseabo/static/js/main.f6e3af68.chunk.js",
-    "main.js.map": "/Caseabo/static/js/main.f6e3af68.chunk.js.map",
+    "main.js": "/Caseabo/static/js/main.d23cbef5.chunk.js",
+    "main.js.map": "/Caseabo/static/js/main.d23cbef5.chunk.js.map",
     "runtime-main.js": "/Caseabo/static/js/runtime-main.7b28edcf.js",
     "runtime-main.js.map": "/Caseabo/static/js/runtime-main.7b28edcf.js.map",
     "static/js/2.63bf420a.chunk.js": "/Caseabo/static/js/2.63bf420a.chunk.js",
     "static/js/2.63bf420a.chunk.js.map": "/Caseabo/static/js/2.63bf420a.chunk.js.map",
     "index.html": "/Caseabo/index.html",
-    "precache-manifest.ee3f207d7e5047b95bf1e9b0563090c9.js": "/Caseabo/precache-manifest.ee3f207d7e5047b95bf1e9b0563090c9.js",
+    "precache-manifest.616ceff5950843a84ed2b417d8e16d62.js": "/Caseabo/precache-manifest.616ceff5950843a84ed2b417d8e16d62.js",
     "service-worker.js": "/Caseabo/service-worker.js",
     "static/css/main.f1ca6647.chunk.css.map": "/Caseabo/static/css/main.f1ca6647.chunk.css.map",
     "static/js/2.63bf420a.chunk.js.LICENSE.txt": "/Caseabo/static/js/2.63bf420a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b28edcf.js",
     "static/js/2.63bf420a.chunk.js",
     "static/css/main.f1ca6647.chunk.css",
-    "static/js/main.f6e3af68.chunk.js"
+    "static/js/main.d23cbef5.chunk.js"
   ]
 }
