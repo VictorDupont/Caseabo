@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Caseabo/static/css/main.f1ca6647.chunk.css",
-    "main.js": "/Caseabo/static/js/main.d23cbef5.chunk.js",
-    "main.js.map": "/Caseabo/static/js/main.d23cbef5.chunk.js.map",
+    "main.css": "/Caseabo/static/css/main.fc239f8f.chunk.css",
+    "main.js": "/Caseabo/static/js/main.4ac88c32.chunk.js",
+    "main.js.map": "/Caseabo/static/js/main.4ac88c32.chunk.js.map",
     "runtime-main.js": "/Caseabo/static/js/runtime-main.7b28edcf.js",
     "runtime-main.js.map": "/Caseabo/static/js/runtime-main.7b28edcf.js.map",
-    "static/js/2.63bf420a.chunk.js": "/Caseabo/static/js/2.63bf420a.chunk.js",
-    "static/js/2.63bf420a.chunk.js.map": "/Caseabo/static/js/2.63bf420a.chunk.js.map",
+    "static/js/2.43b7792a.chunk.js": "/Caseabo/static/js/2.43b7792a.chunk.js",
+    "static/js/2.43b7792a.chunk.js.map": "/Caseabo/static/js/2.43b7792a.chunk.js.map",
     "index.html": "/Caseabo/index.html",
-    "precache-manifest.81cac31e577b5392c2c10072d59af313.js": "/Caseabo/precache-manifest.81cac31e577b5392c2c10072d59af313.js",
+    "precache-manifest.00829617de4ccb414ff18a5f2632b1a5.js": "/Caseabo/precache-manifest.00829617de4ccb414ff18a5f2632b1a5.js",
     "service-worker.js": "/Caseabo/service-worker.js",
-    "static/css/main.f1ca6647.chunk.css.map": "/Caseabo/static/css/main.f1ca6647.chunk.css.map",
-    "static/js/2.63bf420a.chunk.js.LICENSE.txt": "/Caseabo/static/js/2.63bf420a.chunk.js.LICENSE.txt"
+    "static/css/main.fc239f8f.chunk.css.map": "/Caseabo/static/css/main.fc239f8f.chunk.css.map",
+    "static/js/2.43b7792a.chunk.js.LICENSE.txt": "/Caseabo/static/js/2.43b7792a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b28edcf.js",
-    "static/js/2.63bf420a.chunk.js",
-    "static/css/main.f1ca6647.chunk.css",
-    "static/js/main.d23cbef5.chunk.js"
+    "static/js/2.43b7792a.chunk.js",
+    "static/css/main.fc239f8f.chunk.css",
+    "static/js/main.4ac88c32.chunk.js"
   ]
 }
