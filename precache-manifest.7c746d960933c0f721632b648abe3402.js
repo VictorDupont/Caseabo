@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "264a7217d332909b575fa2eeae2b8c7b",
+    "revision": "ba095d4051bbdc3560f2d73ea2b6fd94",
     "url": "/Caseabo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Caseabo/static/css/2.3e576aea.chunk.css"
   },
   {
-    "revision": "fed0511d5aa36a379fb4",
-    "url": "/Caseabo/static/css/main.ae5eb6db.chunk.css"
+    "revision": "443b689546ad2abc9e43",
+    "url": "/Caseabo/static/css/main.ca0c0eda.chunk.css"
   },
   {
     "revision": "4737ac25b9a01e8859d5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Caseabo/static/js/2.77cdc6dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fed0511d5aa36a379fb4",
+    "revision": "443b689546ad2abc9e43",
     "url": "/Caseabo/static/js/main.08a76e84.chunk.js"
   },
   {
